@@ -1,1 +1,1 @@
-# wearherApi
+# weatherAPI
